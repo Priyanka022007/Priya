@@ -1,0 +1,2 @@
+import addmo
+addmo.add()
